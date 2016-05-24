@@ -43,8 +43,8 @@ WEB SERVER REQUIREMENTS:
 1. Apache Web Server
 2. Current Server Credentials
 servername = "mydbinstance1.com52r4wudge.us-west-2.rds.amazonaws.com";
-username = "karthik";
-password = "k12345678";
+username = "xxxxx";
+password = "xxxxx";
 dbname = "BeaconLog";
 
 COMPILATION
